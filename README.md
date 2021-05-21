@@ -6,7 +6,7 @@
     🍋<a href="https://www.zhihu.com/people/mi-qi-lin-60-52">zhihu</a> .
     🍓<a href="https://juejin.cn/user/3421335917182461">juejin</a> .
     🍑<a href="https://twitter.com/miqilin21">twitter</a> .
-    👾<a href="https://cdn.jsdelivr.net/gh/miqilin21/static@master/img/wechat.jpg">wechat</a> .
+    👾<a href="https://cdn.jsdelivr.net/gh/miqilin21/static@master/img/wechat.jpg">wechat</a> 
   </samp>
 </p>
 
