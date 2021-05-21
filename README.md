@@ -14,11 +14,11 @@ I'm miqilin21 (灵谦) .
 
 ### Contacts 😄
 
-- 🍊 blog: [https://me.miqilin21.cn](https://me.miqilin21.cn)
-- 🍋 zhihu: [https://www.zhihu.com/people/mi-qi-lin-60-52](https://www.zhihu.com/people/mi-qi-lin-60-52)
-- 🍓 juejin: [https://juejin.cn/user/3421335917182461](https://juejin.cn/user/3421335917182461)
-- 🍑 twitter: [https://twitter.com/miqilin21](https://twitter.com/miqilin21)
-- 👾 wechat: miqilin21
+- 🍊 blog: [blog](https://me.miqilin21.cn)
+- 🍋 zhihu: [zhihu](https://www.zhihu.com/people/mi-qi-lin-60-52)
+- 🍓 juejin: [juejin](https://juejin.cn/user/3421335917182461)
+- 🍑 twitter: [twitter](https://twitter.com/miqilin21)
+- 👾 wechat: [miqilin21](https://cdn.jsdelivr.net/gh/miqilin21/static@master/img/wechat.jpg)
 
 ### Github Stats 🔥
 
