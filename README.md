@@ -20,7 +20,7 @@ I'm miqilin21 (灵谦) .
 - 🍉 Change of career to a front-end programmer
 - 🍍 Currently working in a startup company in Hangzhou
 - 🍎 Goal: **Be a good front-end developer**
-- 📍 杭州
+- 📍 Hangzhou
 - 👨‍🎓 ZJUT
 
 ### Github Stats 🔥
