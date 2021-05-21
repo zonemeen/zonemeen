@@ -17,7 +17,7 @@
 
 I'm miqilin21 (灵谦) .
 
-- 🍉 Change of career to a front-end programmer
+- 🍉 Switch careers to a Front-End developer
 - 🍍 Currently working in a startup company in Hangzhou
 - 🍎 Goal: **Be a good front-end developer**
 - 📍 Hangzhou
