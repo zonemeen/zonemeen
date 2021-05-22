@@ -22,7 +22,3 @@ I'm miqilin21 (灵谦) .
 - 🍎 Goal: **Be a good front-end developer**
 - 📍 Hangzhou
 - 👨‍🎓 ZJUT
-
-### Github Stats 🔥
-
-![](https://github-readme-stats.vercel.app/api?username=miqilin21&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
