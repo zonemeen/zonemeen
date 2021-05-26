@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm miqilin21 (灵谦) .
+
 <p align="center">
   <samp>
     🍊<a href="https://me.miqilin21.cn">blog</a> .
@@ -9,13 +11,6 @@
     👾<a href="https://cdn.jsdelivr.net/gh/miqilin21/static@master/img/wechat.jpg">wechat</a> 
   </samp>
 </p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/miqilin21/count.svg" />
-</p>
-
-I'm miqilin21 (灵谦) .
 
 - 🍉 Switch careers to a Front-End developer
 - 🍍 Currently working in a startup company in Hangzhou
