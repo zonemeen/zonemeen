@@ -2,6 +2,6 @@
 
 - 🔥 &nbsp;<a href="https://www.zhihu.com/people/mi-qi-lin-60-52">zhihu</a> . <a href="https://juejin.cn/user/3421335917182461">juejin</a> . <a href="https://twitter.com/zonemeen">twitter</a> . <a href="https://cdn.jsdelivr.net/gh/miqilin21/static@master/img/wechat.jpg">wechat</a>
 - ❤️ A passionate, self-taught, career-changed front-end developer since 2021
-- 😁 Coding for fun
+- 😁 Coding for fun, love hip-hop
 - 📍 &nbsp;Hangzhou
 - 👨‍🎓 ZJUT
