@@ -5,7 +5,7 @@ name: Python application
 
 on:
   schedule:
-    - cron: '45 7 * * *'
+    - cron: '50 15 * * *'
   watch:
     types: started
 
