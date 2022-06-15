@@ -11,10 +11,10 @@
 - 👨‍🎓 ZJUT
             </td>
             <td style="border: transparent;">
-               🎵 My this week song list of top 5:
-                {song_list}
+                <div>🎵 My this week song list of top 5:
+                      {song_list}
+                </div>
             </td>
         </tr>
     </table>
-
 </html>
