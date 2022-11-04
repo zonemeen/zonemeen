@@ -1,4 +1,4 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> Hi there, I'm zonemeen.
+## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="26" /> Hi there, I'm zonemeen.
 
 A passionate, self-taught, career-changed front-end developer since 2021. I like all interesting things and want to try to do it.
 
@@ -7,6 +7,6 @@ A passionate, self-taught, career-changed front-end developer since 2021. I like
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zonemeen&theme=tokyonight" />
 </p>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1643515478/14993/music_level.gif?1643515478" width="25" /> Recently Played
+## <img src="https://emojis.slackmojis.com/emojis/images/1643515478/14993/music_level.gif?1643515478" width="24" /> Recently Played
 
 <img width="310" alt="SVG" src="./163.svg" />
