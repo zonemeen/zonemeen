@@ -6,3 +6,7 @@ I'm a passionate, self-taught, career-changed front-end developer since 2021.
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zonemeen&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zonemeen&theme=tokyonight" />
 </p>
+
+---
+
+<img width="310" alt="SVG" src="./163.svg" />
