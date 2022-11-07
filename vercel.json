@@ -1,7 +1,10 @@
 {
   "functions": {
-    "index.js": {
+    "api/index.js": {
       "includeFiles": "163.svg"
     }
-  }
+  },
+  "rewrites": [
+    { "source": "/", "destination": "/api/index" }
+  ]
 }
