@@ -18,8 +18,6 @@ jobs:
         with:
           id: '126764012' # Your NetEase Cloud Music account id
       - run: |
-          git config --local user.name "zonemeen"
-          git config --local user.email "miqilin18@gmail.com"
           git pull
           git add .
           git commit -m "Update README.md"
