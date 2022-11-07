@@ -17,10 +17,3 @@ jobs:
       - uses: zonemeen/netease-recent-actions@v1.0.16
         with:
           id: '126764012' # Your NetEase Cloud Music account id
-      - run: |
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          git config --global user.name "${{ github.actor }}"
-          git pull
-          git add .
-          git commit -m "Update README.md"
-          git push
