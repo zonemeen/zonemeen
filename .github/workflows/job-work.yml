@@ -17,4 +17,3 @@ jobs:
       - uses: zonemeen/netease-recent-actions@v1.0.19
         with:
           id: '126764012' # Your NetEase Cloud Music account id
-          number: '4'
