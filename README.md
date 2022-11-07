@@ -9,4 +9,4 @@ A passionate, self-taught, career-changed front-end developer since 2021. I like
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643515478/14993/music_level.gif?1643515478" width="24" /> Recently Played
 
-<img alt="SVG" src="./163.svg" />
+<img alt="SVG" src="https://zonemeen.vercel.app" />
