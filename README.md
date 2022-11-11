@@ -9,4 +9,4 @@ A passionate, self-taught, career-changed front-end developer since 2021. I like
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643515478/14993/music_level.gif?1643515478" width="24" /> Recently Played
 
-[![netease-profile](https://netease-recent-profile.vercel.app/?id=126764012&size=60)](https://netease-recent-profile.vercel.app/?id=126764012&size=60)
+[![netease-profile](https://netease-recent-profile.vercel.app/?id=126764012)](https://netease-recent-profile.vercel.app/?id=126764012)
