@@ -1,6 +1,6 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="26" /> Hi there, I'm zonemeen.
+## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="26" /> Hi there, Welcome!
 
-I'm zonemeen (烽宁) .
+I'm zonemeen (烽宁)
 
 - 🔥 A passionate, self-taught, career-changed front-end developer since 2021
 - ❤️ I like all interesting things and want to try to do it
