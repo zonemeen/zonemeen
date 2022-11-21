@@ -1,4 +1,4 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="26" /> Hi there, Welcome!
+## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="26" /> Hi there, welcome!
 
 I'm zonemeen (烽宁)
 
