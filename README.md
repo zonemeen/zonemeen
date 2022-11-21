@@ -1,6 +1,11 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="26" /> Hi there, I'm zonemeen.
 
-A passionate, self-taught, career-changed front-end developer since 2021. I like all interesting things and want to try to do it.
+I'm zonemeen (烽宁) .
+
+- 🔥 A passionate, self-taught, career-changed front-end developer since 2021
+- ❤️ I like all interesting things and want to try to do it
+- 👨‍🎓 ZJUT
+- 💬 wechat：zongmin-L
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zonemeen&show_icons=true&theme=tokyonight" />
