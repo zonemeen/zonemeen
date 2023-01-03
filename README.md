@@ -4,7 +4,7 @@ I'm zonemeen (烽宁)
 
 - 🔥 A passionate, self-taught, career-changed front-end developer since 2021
 - ❤️ I like all interesting things and want to try to do it
-- 💬 wechat：zongmin-L
+- 💬 wechat：`zonemeen`
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zonemeen&show_icons=true&theme=tokyonight" />
