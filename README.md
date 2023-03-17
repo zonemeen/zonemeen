@@ -6,7 +6,7 @@ I'm zonemeen (烽宁)
 - ❤️ I like all interesting things and want to try to do it
 - 💬 wechat：`zonemeen`
 
-<img src="https://github-readme-stats.vercel.app/api?username=zonemeen&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=zonemeen&show_icons=true&theme=tokyonight&hide_border=true" />
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643515478/14993/music_level.gif?1643515478" width="24" /> Recently Played
 
