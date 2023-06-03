@@ -2,7 +2,7 @@
 
 I'm zonemeen (烽宁)
 
-- 🔥 A passionate, self-taught, career-changed front-end developer since 2021
+- 🔥 A passionate, self-taught, career-changed front-end developer
 - ❤️ I like all interesting things and want to try to do it
 - 💬 wechat：`zonemeen`
 
