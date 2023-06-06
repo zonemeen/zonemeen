@@ -8,6 +8,6 @@ I'm zonemeen (烽宁)
 
 <img src="https://github-readme-stats.vercel.app/api?username=zonemeen&show_icons=true&theme=tokyonight&hide_border=true" />
 
-## Recently Played
+## 🎶 Recently Played
 
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&theme=card)](https://netease-recent-profile.vercel.app/?id=126764012&theme=card) (Power by [zonemeen](https://github.com/zonemeen/netease-recent-profile))
