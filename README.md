@@ -10,4 +10,4 @@ I'm zonemeen (烽宁)
 
 ## 🎶 Recently Played
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&theme=card)](https://netease-recent-profile.vercel.app/?id=126764012&theme=card) (Power by [zonemeen](https://github.com/zonemeen/netease-recent-profile))
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012&theme=card&size=300)](https://netease-recent-profile.vercel.app/?id=126764012&theme=card&size=300) (Power by [zonemeen](https://github.com/zonemeen/netease-recent-profile))
