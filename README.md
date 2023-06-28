@@ -3,7 +3,7 @@
 I'm zonemeen (烽宁)
 
 - 🔥 A passionate, self-taught, career-changed front-end developer
-- ❤️ I like code, hip-hop, anime and all interesting things
+- ❤️ I like code, hip-hop, football and all interesting things
 - 💬 wechat：`zonemeen`
 
 <img src="https://github-readme-stats.vercel.app/api?username=zonemeen&show_icons=true&theme=tokyonight&hide_border=true" />
