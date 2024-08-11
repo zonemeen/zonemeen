@@ -3,7 +3,7 @@
 I'm zonemeen (烽宁)
 
 - 🔥 A passionate, self-taught, career-changed front-end developer
-- ❤️ I like code, music, football and all interesting things
+- ❤️ I like code, music, badminton and all interesting things
 
 <img src="https://github-readme-stats.vercel.app/api?username=zonemeen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
