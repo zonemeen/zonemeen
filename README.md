@@ -2,7 +2,8 @@
 
 I'm zonemeen (烽宁)
 
-- 🔥 A passionate, self-taught developer who transitioned from a traditional industry to frontend and later AI agent development.
+- 🔥 A passionate, dedicated, self-taught developer.
+- 🚀 Transitioned from a traditional industry to front-end and then AI agent development.
 - ❤️ I like code, music, badminton and all interesting things
 
 <img src="https://github-stats-extended.vercel.app/api?username=zonemeen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
